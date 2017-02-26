@@ -3,7 +3,7 @@ $(document).ready(function () {
 	// Nice scroll
 	$("html").niceScroll();
 	$('.carousel').carousel({
-		interval: 10000
+		interval: 5000
 	});
 
     // Caching The Scroll Top element
